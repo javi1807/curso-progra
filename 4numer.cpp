@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
@@ -6,8 +7,8 @@ int main()
 
     for (int i = 0; i < 4; ++i)
     {
-        std::cout << "Ingrese el número " << i + 1 << ": ";
-        std::cin >> numeros[i];
+        cout << "Ingrese el número " << i + 1 << ": ";
+        cin >> numeros[i];
     }
 
     for (int i = 0; i < 3; ++i)
@@ -23,10 +24,10 @@ int main()
         }
     }
 
-    std::cout << "Números ordenados de menor a mayor: ";
+    cout << "Números ordenados de menor a mayor: ";
     for (int i = 0; i < 4; ++i)
     {
-        std::cout << numeros[i] << " ";
+        cout << numeros[i] << " ";
     }
 
     return 0;
