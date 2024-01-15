@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    float numeros[4];
+    int numeros[4];
 
     for (int i = 0; i < 4; ++i)
     {
