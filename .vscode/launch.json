@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ACER/Desktop/tarea",
-      "program": "c:/Users/ACER/Desktop/tarea/build/Debug/outDebug",
+      "cwd": "c:/Users/ACER/Desktop/tarea/semana5",
+      "program": "c:/Users/ACER/Desktop/tarea/semana5/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
